@@ -10,6 +10,8 @@ public class HttpUtil{
 
 
 	public static String sendHead(String url){
+
+	public static String sendMail(String url){}
 }
 
 }
