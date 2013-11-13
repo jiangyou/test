@@ -8,4 +8,8 @@ public class HttpUtil{
 	public static String sendPost(String url,Map<String,String> params){
 	}
 
+
+	public static String sendHead(String url){
+}
+
 }
